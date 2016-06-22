@@ -6,7 +6,7 @@
 // Contact us on twitter with any questions:  twitter.com/stat_hat
 
 // The jconfig package provides a simple, basic configuration file parser using JSON.
-package jconfig // import "stathat.com/c/jconfig"
+package jconfig
 
 import (
 	"bytes"
